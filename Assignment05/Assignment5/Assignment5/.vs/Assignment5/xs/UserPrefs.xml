@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6EC92BC9-6A2A-4C10-0F26-977CE9BD1A94}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HW5/Level.cs">
+    <Files>
+      <File FileName="Assets/HW5/LevelOptimizer.cs" Line="15" Column="23" />
+      <File FileName="Assets/HW5/Level.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="40193ba9-d214-489e-8b39-4eb4ff88c8f7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
