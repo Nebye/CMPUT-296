@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E35AE3ED-9921-6FDE-E267-4F61D1BCE4EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HW1/HW1Autograder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pathing/GreedyPathFinder.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/Agents/PathFollowingAgent.cs" />
+      <File FileName="Assets/HW2/AStarNavigationHandler.cs" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/Polygon.cs" />
+      <File FileName="Assets/HW3/State.cs" />
+      <File FileName="Assets/Scripts/Pathing/GraphNode.cs" Line="9" Column="1" />
+      <File FileName="Assets/HW2/AStarPathFinder.cs" />
+      <File FileName="Assets/HW2/PriorityQueue.cs" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/ObstacleHandler.cs" Line="17" Column="34" />
+      <File FileName="Assets/HW2/PathSmoother.cs" />
+      <File FileName="Assets/test.cs" Line="10" Column="36" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/NodeHandler.cs" Line="12" Column="3" />
+      <File FileName="Assets/Scripts/NavigationHandler.cs" Line="48" Column="5" />
+      <File FileName="Assets/HW1/GridHandler.cs" Line="23" Column="36" />
+      <File FileName="Assets/HW1/HW1Autograder.cs" Line="21" Column="10" />
+      <File FileName="Assets/ByAssignment/HW1/ObstacleTest1Points.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa3bbb00-342c-4715-9d50-4b2259d23669" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

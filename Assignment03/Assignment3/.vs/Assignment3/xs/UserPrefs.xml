@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B9AB7813-E8FD-02B8-5772-AD61751CDDB1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HW3/FSMs/FSMAgent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Agents/AgentConstants.cs" Line="11" Column="42" />
+      <File FileName="Assets/Scripts/Agents/GhostManager.cs" />
+      <File FileName="Assets/Scripts/Game/GameHandler.cs" />
+      <File FileName="Assets/Scripts/Game/PelletHandler.cs" />
+      <File FileName="Assets/Scripts/Game/ScoreHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/HW3/FSMs/Blinky.cs" Line="1" Column="1" />
+      <File FileName="Assets/HW3/FSMs/FSMAgent.cs" Line="18" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e6573bf-4596-4f1d-8b43-c96bb8fd9c18" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

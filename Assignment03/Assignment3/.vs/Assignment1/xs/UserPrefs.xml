@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BEC89A45-9804-02E7-B29F-AC2A648FFAED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HW1/GridHandler.cs">
+    <Files>
+      <File FileName="Assets/HW1/GridHandler.cs" Line="21" Column="102" />
+      <File FileName="Assets/Scripts/NavigationHandler.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/NodeHandler.cs" />
+      <File FileName="Assets/Scripts/Pathing/GreedyPathFinder.cs" />
+      <File FileName="Assets/Scripts/Agents/PathFollowingAgent.cs" />
+      <File FileName="Assets/HW1/ObstacleTest2Points.cs" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/ObstacleHandler.cs" Line="11" Column="28" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/ObstacleDefiner.cs" />
+      <File FileName="Assets/Scripts/Pathing/GraphNode.cs" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/Polygon.cs" />
+      <File FileName="Assets/HW1/ObstacleTest4Points.cs" />
+      <File FileName="Assets/HW1/ObstacleTest3Points.cs" />
+      <File FileName="Assets/HW1/ObstacleTest5Points.cs" Line="16" Column="95" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c69de312-4f1d-4fc9-895d-e3c646283902" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
